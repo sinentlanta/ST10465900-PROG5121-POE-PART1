@@ -42,7 +42,7 @@ public class LanguageManager {
         english.put("login_promt", "---LOGIN---");
         english.put("login_username", "Username: ");
         english.put("login_password", "Password: ");
-        english.put("login_success", "Welcome <firstName>, <lastName> is the greating you will see.");
+        english.put("login_success", "Welcome <firstName>, <lastName> is the greeting you will see.");
         english.put("login_failed", "Username or password was incorrect, please try again.");
     }
         
